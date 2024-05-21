@@ -1,5 +1,5 @@
 CMakeFiles/HelloCV.dir/main.cpp.o: \
-  /Users/yoonkyull/Documents/code/personal_lecutre/cpproj/main.cpp \
+  /Users/yoonkyull/Documents/code/git-project/cpproj/main.cpp \
   /opt/homebrew/Cellar/opencv/4.9.0_8/include/opencv4/opencv2/opencv.hpp \
   /opt/homebrew/Cellar/opencv/4.9.0_8/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/homebrew/Cellar/opencv/4.9.0_8/include/opencv4/opencv2/core.hpp \

@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello OpenCV" << endl;
+    std::cout << "Hello OpenCV " << CV_VERSION << std::endl;
 
     Mat img;
-    img = imread("/Users/yoonkyull/Documents/code/personal_lecutre/cpproj/1395355.jpg");
+    img = imread("/Users/yoonkyull/Documents/code/git-project/cpproj/1395355.jpg");
 
     if (img.empty())
     {
